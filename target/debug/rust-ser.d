@@ -1,0 +1,1 @@
+/Users/cutewen/IdeaProjects/rust-ser/target/debug/rust-ser: /Users/cutewen/Desktop/ser-cli/package_handler/src/lib.rs /Users/cutewen/IdeaProjects/rust-ser/src/main.rs /Users/cutewen/Desktop/ser-cli/bichannels/src/lib.rs /Users/cutewen/Desktop/ser-cli/stream_handler/src/lib.rs
